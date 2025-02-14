@@ -6,3 +6,4 @@ I found that using WinRar a zip file creator worked better than the Mac compress
 
 
 Created by: https://www.linkedin.com/in/kevin-scrimgeour/
+Check https://ailabs.work/rag-financial-analysis/ to see the results in action
