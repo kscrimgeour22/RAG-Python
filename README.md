@@ -4,6 +4,7 @@ The setup is that sections 1-4 define the functions and in section 5 is where th
 Watch the file locations and paths to make sure your data is imported.
 I found that using WinRar a zip file creator worked better than the Mac compressor.
 
+Developer: https://www.upwork.com/freelancers/~01792c6b0168d2ec00?mp_source=share
 
-Created by: https://www.linkedin.com/in/kevin-scrimgeour/
+Published by: https://www.linkedin.com/in/kevin-scrimgeour/
 Check https://ailabs.work/rag-financial-analysis/ to see the results in action
